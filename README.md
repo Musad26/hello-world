@@ -1,2 +1,2 @@
-Hi, this is first testing repository
+Hi, this is my first Github repository
 This is updated
